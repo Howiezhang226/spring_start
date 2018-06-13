@@ -51,3 +51,8 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+.gradle/4.4/fileContent/
+.gradle/4.4/fileHashes/resourceHashesCache.bin
+.idea/compiler.xml
+build/
+src/
